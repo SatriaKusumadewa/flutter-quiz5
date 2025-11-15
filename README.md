@@ -1,6 +1,7 @@
 # flutter_quiz5
 
-A new Flutter project.
+untuk jawaban no.5 ini pak :
+[Satria Kusumadewa_221080200108_jawaban no.5.docx](https://github.com/user-attachments/files/23558932/Satria.Kusumadewa_221080200108_jawaban.no.5.docx)
 
 ## Getting Started
 
